@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class TestBase {
 
-	Properties prop;
+	public Properties prop;
 	
 	public TestBase() {
 	prop = new Properties();
